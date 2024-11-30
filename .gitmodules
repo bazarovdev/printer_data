@@ -1,0 +1,3 @@
+[submodule "config"]
+	path = config
+	url = git@github.com:bazarovdev/z9v5-klipper.git
