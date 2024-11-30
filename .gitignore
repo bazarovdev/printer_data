@@ -1,0 +1,7 @@
+certs/
+comms/
+database/
+logs/
+gcodes/
+.moonraker.uuid
+moonraker.asvc
